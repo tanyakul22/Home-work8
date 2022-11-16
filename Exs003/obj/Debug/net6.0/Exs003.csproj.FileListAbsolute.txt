@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\bin\Debug\net6.0\Exs003.exe
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\bin\Debug\net6.0\Exs003.deps.json
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\bin\Debug\net6.0\Exs003.runtimeconfig.json
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\bin\Debug\net6.0\Exs003.dll
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\bin\Debug\net6.0\Exs003.pdb
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\Exs003.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\Exs003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\Exs003.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\Exs003.AssemblyInfo.cs
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\Exs003.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\Exs003.dll
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\refint\Exs003.dll
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\Exs003.pdb
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\Exs003.genruntimeconfig.cache
+C:\Users\user\Desktop\Zadanie8\Exsamles\Exs003\obj\Debug\net6.0\ref\Exs003.dll
